@@ -1,0 +1,19 @@
+[
+  {
+    "Author": "veyn",
+    "Name": "V(ery) Island CN",
+    "Punchline": "Automate island sanctuary activities",
+    "Description": "Automate gathering, workshop assignments, etc.",
+    "Tags": [],
+    "InternalName": "visland",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/ffxiv_visland/master/PluginDistribution/plugins/visland/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/ffxiv_visland/master/PluginDistribution/plugins/visland/latest.zip",
+    "AssemblyVersion": "0.0.0.79",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "9",
+    "Changelog": "",
+    "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png"
+  }
+]
