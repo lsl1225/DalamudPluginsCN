@@ -10,7 +10,7 @@
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/ffxiv_visland/master/PluginDistribution/plugins/visland/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/ffxiv_visland/master/PluginDistribution/plugins/visland/latest.zip",
-    "AssemblyVersion": "0.0.0.79",
+    "AssemblyVersion": "0.0.0.80",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
     "Changelog": "",
