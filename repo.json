@@ -8,12 +8,35 @@
     "InternalName": "visland",
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/ffxiv_visland/master/PluginDistribution/plugins/visland/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/ffxiv_visland/master/PluginDistribution/plugins/visland/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/visland/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/visland/latest.zip",
     "AssemblyVersion": "0.0.0.80",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
     "Changelog": "",
     "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png"
+  },
+  {
+    "Author": "Taurenkey (Puni.sh)",
+    "Name": "Artisan CN",
+    "InternalName": "Artisan",
+    "AssemblyVersion": "3.0.4.6",
+    "Description": "The all-in-one crafting plugin.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "crafting"
+    ],
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/Artisan/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/Artisan/latest.zip",
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://love.puni.sh/resources/artisan.png",
+    "Punchline": "A 'simple' crafting plugin.",
+    "Changelog": ""
   }
 ]
