@@ -15,5 +15,26 @@
     "DalamudApiLevel": "9",
     "Changelog": "",
     "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png"
+  },
+  {
+    "Author": "status102",
+    "Name": "Trade Recorder",
+    "Punchline": "根据预期价格计算预期交易金额，并记录交易历史",
+    "Description": "根据预期价格计算预期交易金额，并记录交易历史",
+    "Tags": [
+      "Trade",
+      "MarketBoard",
+      "RetainerSell"
+    ],
+    "InternalName": "TradeRecorder",
+    "DownloadCount": "0",
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/TradeRecorder/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/TradeRecorder/latest.zip",
+    "AssemblyVersion": "0.1.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "9",
+    "Changelog": "",
+    "RepoUrl": "https://github.com/lsl1225/TradeRecorder"
   }
 ]
