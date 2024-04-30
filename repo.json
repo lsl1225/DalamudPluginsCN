@@ -10,7 +10,7 @@
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/visland/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/visland/latest.zip",
-    "AssemblyVersion": "0.0.86.1",
+    "AssemblyVersion": "0.0.0.87",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
     "Changelog": "",
