@@ -1,22 +1,5 @@
 [
   {
-    "Author": "veyn",
-    "Name": "V(ery) Island CN",
-    "Punchline": "Automate island sanctuary activities",
-    "Description": "Automate gathering, workshop assignments, etc.",
-    "Tags": [],
-    "InternalName": "visland",
-    "DownloadCount": "0",
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/visland/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/visland/latest.zip",
-    "AssemblyVersion": "0.0.0.90",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "9",
-    "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png"
-  },
-  {
     "Author": "status102",
     "Name": "Trade Recorder",
     "Punchline": "根据预期价格计算预期交易金额，并记录交易历史",
