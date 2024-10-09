@@ -19,5 +19,24 @@
     "DalamudApiLevel": "9",
     "Changelog": "",
     "RepoUrl": "https://github.com/lsl1225/TradeRecorder"
+  },
+  {
+    "Author": "Team Sloth",
+    "Name": "XIVSlothCombo CN",
+    "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+    "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+    "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
+    "InternalName": "XIVSlothCombo",
+    "AssemblyVersion": "3.2.0.8",
+    "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Nik-Potokar/XIVSlothCombo/main/res/plugin/xivslothcombo.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/XIVSlothCombo/latest.zip",
+    "IsHide": false,
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/XIVSlothCombo/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "1724608643"
   }
 ]
