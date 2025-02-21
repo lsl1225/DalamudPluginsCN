@@ -1,42 +1,25 @@
 [
   {
-    "Author": "status102",
-    "Name": "Trade Recorder",
-    "Punchline": "根据预期价格计算预期交易金额，并记录交易历史",
-    "Description": "根据预期价格计算预期交易金额，并记录交易历史",
+    "Author": "Loskh",
+    "Name": "AoAoEnergy (api 11)",
+    "InternalName": "AoAoEnergy",
+    "AssemblyVersion": "1.1.0.0",
+    "Description": "可我还要打本啊！为了不睡过去，我需要补充能量。这时候就轮到我最爱的能量饮料登场了……",
+    "ApplicableVersion": "any",
     "Tags": [
-      "Trade",
-      "MarketBoard",
-      "RetainerSell"
+      "VFX",
+      "AVFX"
     ],
-    "InternalName": "TradeRecorder",
-    "DownloadCount": "0",
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/TradeRecorder/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/TradeRecorder/latest.zip",
-    "AssemblyVersion": "0.1.0.1",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "9",
-    "Changelog": "",
-    "RepoUrl": "https://github.com/lsl1225/TradeRecorder"
-  },
-  {
-    "Author": "Team Sloth",
-    "Name": "XIVSlothCombo CN",
-    "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-    "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-    "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
-    "InternalName": "XIVSlothCombo",
-    "AssemblyVersion": "3.2.0.8",
-    "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/Nik-Potokar/XIVSlothCombo/main/res/plugin/xivslothcombo.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/XIVSlothCombo/latest.zip",
+    "DalamudApiLevel": 11,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 99,
+    "IconUrl": "https://cafemaker.wakingsands.com/i/024000/024420_hr1.png",
+    "Punchline": "宣传是用于新人的怪怪的能量饮料。 (将爆发药特效替换为嗷嗷有劲的RGB)",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AoAoEnergy/latest.zip",
     "IsHide": false,
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/XIVSlothCombo/latest.zip",
-    "DownloadCount": 0,
-    "LastUpdated": "1724608643"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AoAoEnergy/latest.zip"
   }
 ]
