@@ -86,5 +86,23 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/vnavmesh/latest.zip",
     "IsHide": false,
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/vnavmesh/latest.zip"
+  },
+  {
+    "Author": "lsl1225",
+    "Name": "Party Finder Tweaks",
+    "InternalName": "PartyFinderTweaks",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Various QoL changes in Party Finder",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Various QoL changes in Party Finder",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/PartyFinderTweaks/latest.zip",
+    "IsHide": false,
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/PartyFinderTweaks/latest.zip"
   }
 ]
