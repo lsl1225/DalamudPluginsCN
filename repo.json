@@ -91,7 +91,7 @@
     "Author": "lsl1225",
     "Name": "Party Finder Tweaks",
     "InternalName": "PartyFinderTweaks",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "Description": "Various QoL changes in Party Finder",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
