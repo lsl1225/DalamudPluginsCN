@@ -123,5 +123,24 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/WondrousTailsDirector/latest.zip",
     "IsHide": false,
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/WondrousTailsDirector/latest.zip"
+  },
+  {
+    "Author": "Haselnussbomber",
+    "Name": "HaselTweaks CN",
+    "InternalName": "HaselTweaks",
+    "AssemblyVersion": "32.1.1.0",
+    "Description": "Keep on tweaking.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
+    "DalamudApiLevel": 11,
+    "LoadRequiredState": 1,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "A collection of quality of life tweaks.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/HaselTweaks/latest.zip",
+    "IsHide": false,
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/HaselTweaks/latest.zip"
   }
 ]
