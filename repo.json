@@ -72,7 +72,7 @@
     "Author": "veyn",
     "Name": "vnavmesh CN",
     "InternalName": "vnavmesh",
-    "AssemblyVersion": "0.0.0.0",
+    "AssemblyVersion": "0.1.1.1",
     "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
