@@ -105,5 +105,42 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/HaselTweaks/latest.zip",
     "IsHide": false,
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/HaselTweaks/latest.zip"
+  },
+  {
+    "Author": "lsl1225",
+    "Name": "Party Finder Tweaks (api 11)",
+    "InternalName": "PartyFinderTweaks",
+    "AssemblyVersion": "0.0.0.2",
+    "Description": "Various QoL changes in Party Finder",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Various QoL changes in Party Finder",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/PartyFinderTweaks/api11/latest.zip",
+    "IsHide": false,
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/PartyFinderTweaks/api11/latest.zip"
+  },
+  {
+    "Author": "daemitus, MidoriKami, lsl1225",
+    "Name": "Wondrous Tails Director (api 11)",
+    "InternalName": "WondrousTailsDirector",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "This plugin add the capability to open the corresponding instance by clicking on duties in Wondrous Tails. (Former function in EzWondrousTails which is not currently maintenanced.)",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/lsl1225/WondrousTailsDirector",
+    "DalamudApiLevel": 11,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Adds instance redirect to the Wondrous Tails display (former function in EzWondrousTails).",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/WondrousTailsDirector/api11/latest.zip",
+    "IsHide": false,
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/WondrousTailsDirector/api11/latest.zip"
   }
 ]
