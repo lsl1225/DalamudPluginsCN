@@ -18,9 +18,9 @@
     "IconUrl": "https://cafemaker.wakingsands.com/i/024000/024420_hr1.png",
     "Punchline": "宣传是用于新人的怪怪的能量饮料。 (将爆发药特效替换为嗷嗷有劲的RGB)",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AoAoEnergy/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AoAoEnergy/api11/latest.zip",
     "IsHide": false,
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AoAoEnergy/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AoAoEnergy/api11/latest.zip"
   },
   {
     "Author": "NightmareXIV",
