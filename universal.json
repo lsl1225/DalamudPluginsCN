@@ -18,25 +18,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/MatchaTweaks/latest.zip"
   },
   {
-    "Author": "daemitus, MidoriKami, lsl1225",
-    "Name": "Wondrous Tails Director",
-    "InternalName": "WondrousTailsDirector",
-    "AssemblyVersion": "0.0.0.2",
-    "Description": "This plugin add the capability to open the corresponding instance by clicking on duties in Wondrous Tails. (Former function in EzWondrousTails which is not currently maintenanced.)",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/lsl1225/WondrousTailsDirector",
-    "DalamudApiLevel": 12,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Adds instance redirect to the Wondrous Tails display (former function in EzWondrousTails).",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/WondrousTailsDirector/latest.zip",
-    "IsHide": false,
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/WondrousTailsDirector/latest.zip"
-  },
-  {
     "Author": "Loskh",
     "Name": "AoAoEnergy",
     "InternalName": "AoAoEnergy",
