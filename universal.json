@@ -38,16 +38,17 @@
   },
   {
     "Author": "Loskh",
-    "Name": "AoAoEnergy (api 12)",
+    "Name": "AoAoEnergy",
     "InternalName": "AoAoEnergy",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "7.3.0.0",
     "Description": "可我还要打本啊！为了不睡过去，我需要补充能量。这时候就轮到我最爱的能量饮料登场了……",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/lsl1225/AoAoEnergy",
     "Tags": [
       "VFX",
       "AVFX"
     ],
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
