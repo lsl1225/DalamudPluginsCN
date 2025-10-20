@@ -37,5 +37,22 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AoAoEnergy/latest.zip",
     "IsHide": false,
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AoAoEnergy/latest.zip"
+  },
+  {
+    "Author": "lsl1225",
+    "Name": "Relic Tracker",
+    "InternalName": "RelicTracker",
+    "Description": "A plugin that can track your relic progression. (Currently dawntrail only)",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Tracking your relic progression.",
+    "AcceptsFeedback": true,
+    "TestingAssemblyVersion": "0.0.0.1",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/RelicTracker/testing.zip",
+    "TestingDalamudApiLevel": "13"
   }
 ]
