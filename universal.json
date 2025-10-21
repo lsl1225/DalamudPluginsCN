@@ -51,6 +51,7 @@
     "LoadPriority": 0,
     "Punchline": "Tracking your relic progression.",
     "AcceptsFeedback": true,
+    "IsTestingExclusive": true,
     "TestingAssemblyVersion": "0.0.0.1",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/RelicTracker/testing.zip",
     "TestingDalamudApiLevel": "13"
