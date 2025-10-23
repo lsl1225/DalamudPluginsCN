@@ -46,7 +46,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
     "IsHide": false,
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
-    "TestingAssemblyVersion": "0.0.0.247",
+    "TestingAssemblyVersion": "0.0.0.248",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/testing.zip",
     "TestingDalamudApiLevel": "13"
   },
