@@ -17,7 +17,6 @@
     "Punchline": "宣传是用于新人的怪怪的能量饮料。 (将爆发药特效替换为嗷嗷有劲的RGB)",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AoAoEnergy/latest.zip",
-    "IsHide": false,
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AoAoEnergy/latest.zip"
   },
   {
@@ -48,7 +47,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks CN",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "38.0.4",
+    "AssemblyVersion": "40.0.3",
     "Description": "Keep on tweaking.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lsl1225/HaselTweaksCN",
@@ -60,7 +59,6 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/HaselTweaks/latest.zip",
-    "IsHide": false,
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/HaselTweaks/latest.zip"
   }
 ]
