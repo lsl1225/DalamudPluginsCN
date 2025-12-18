@@ -3,12 +3,12 @@
     "Author": "Loskh, lsl1225",
     "Name": "AoAoEnergy",
     "InternalName": "AoAoEnergy",
-    "AssemblyVersion": "7.3.0.0",
+    "AssemblyVersion": "7.4.0.0",
     "Description": "可我还要打本啊！为了不睡过去，我需要补充能量。这时候就轮到我最爱的能量饮料登场了……",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lsl1225/AoAoEnergy",
     "Tags": ["VFX", "AVFX"],
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -17,6 +17,7 @@
     "Punchline": "宣传是用于新人的怪怪的能量饮料。 (将爆发药特效替换为嗷嗷有劲的RGB)",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AoAoEnergy/latest.zip",
+    "IsHide": false,
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AoAoEnergy/latest.zip"
   },
   {
