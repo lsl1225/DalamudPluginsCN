@@ -24,9 +24,8 @@
     "RepoUrl": "https://github.com/lsl1225/AutoDutyCN",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
-    "AssemblyVersion": "0.0.0.266",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "13",
+    "AssemblyVersion": "0.0.0.280",
+    "DalamudApiLevel": "14",
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
@@ -34,10 +33,7 @@
       "https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
       "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
       "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
-    ],
-    "TestingAssemblyVersion": "0.0.0.248",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/testing.zip",
-    "TestingDalamudApiLevel": "13"
+    ]
   },
   {
     "Author": "Haselnussbomber",
@@ -45,13 +41,10 @@
     "InternalName": "HaselTweaks",
     "AssemblyVersion": "40.0.3",
     "Description": "Keep on tweaking.",
-    "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lsl1225/HaselTweaksCN",
     "DalamudApiLevel": 13,
     "LoadRequiredState": 1,
-    "LoadSync": false,
     "CanUnloadAsync": false,
-    "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/HaselTweaks/latest.zip",
