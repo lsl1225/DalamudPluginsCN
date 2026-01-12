@@ -1,0 +1,46 @@
+[
+  {
+    "Author": "lsl1225",
+    "Name": "Matcha Tweaks",
+    "InternalName": "MatchaTweaks",
+    "AssemblyVersion": "7.4.0.1",
+    "Description": "Various QoL changes",
+    "DalamudApiLevel": 14,
+    "CanUnloadAsync": false,
+    "Punchline": "Various QoL changes",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/MatchaTweaks/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/MatchaTweaks/latest.zip"
+  },
+  {
+    "Author": "Loskh, lsl1225",
+    "Name": "AoAoEnergy",
+    "InternalName": "AoAoEnergy",
+    "AssemblyVersion": "7.4.0.1",
+    "Description": "可我还要打本啊！为了不睡过去，我需要补充能量。这时候就轮到我最爱的能量饮料登场了……",
+    "RepoUrl": "https://github.com/lsl1225/AoAoEnergy",
+    "Tags": ["VFX", "AVFX"],
+    "DalamudApiLevel": 14,
+    "CanUnloadAsync": false,
+    "IconUrl": "https://cafemaker.wakingsands.com/i/024000/024420_hr1.png",
+    "Punchline": "宣传是用于新人的怪怪的能量饮料。 (将爆发药特效替换为嗷嗷有劲的RGB)",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AoAoEnergy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AoAoEnergy/latest.zip"
+  },
+  {
+    "Author": "lsl1225",
+    "Name": "Relic Tracker",
+    "InternalName": "RelicTracker",
+    "AssemblyVersion": "0.0.0.2",
+    "Description": "A plugin that can track your relic progression. (Currently dawntrail only)",
+    "DalamudApiLevel": 14,
+    "CanUnloadAsync": false,
+    "Punchline": "Tracking your relic progression.",
+    "AcceptsFeedback": true,
+    "IsTestingExclusive": true,
+    "TestingAssemblyVersion": "0.0.0.2",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/RelicTracker/testing.zip",
+    "TestingDalamudApiLevel": 14
+  }
+]
