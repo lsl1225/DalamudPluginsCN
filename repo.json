@@ -8,7 +8,7 @@
     "RepoUrl": "https://github.com/lsl1225/AutoDutyCN",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
-    "AssemblyVersion": "0.0.0.287",
+    "AssemblyVersion": "0.0.0.289",
     "DalamudApiLevel": "14",
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "ImageUrls": [
