@@ -32,14 +32,15 @@
     "Author": "lsl1225",
     "Name": "Relic Tracker",
     "InternalName": "RelicTracker",
-    "AssemblyVersion": "0.0.0.2",
+    "AssemblyVersion": "0.0.0.3",
     "Description": "A plugin that can track your relic progression. (Currently dawntrail only)",
     "DalamudApiLevel": 14,
     "CanUnloadAsync": false,
     "Punchline": "Tracking your relic progression.",
     "AcceptsFeedback": true,
+    "IsHide": true,
     "IsTestingExclusive": true,
-    "TestingAssemblyVersion": "0.0.0.2",
+    "TestingAssemblyVersion": "0.0.0.3",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/RelicTracker/testing.zip",
     "TestingDalamudApiLevel": 14
   }
