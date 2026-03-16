@@ -32,6 +32,7 @@
     "Author": "lsl1225",
     "Name": "Relic Tracker",
     "InternalName": "RelicTracker",
+    "RepoUrl": "https://github.com/lsl1225/RelicTracker",
     "AssemblyVersion": "0.0.0.3",
     "Description": "A plugin that can track your relic progression. (Currently dawntrail only)",
     "DalamudApiLevel": 14,
