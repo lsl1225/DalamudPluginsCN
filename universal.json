@@ -3,9 +3,9 @@
     "Author": "lsl1225",
     "Name": "Matcha Tweaks",
     "InternalName": "MatchaTweaks",
-    "AssemblyVersion": "7.4.0.1",
+    "AssemblyVersion": "7.5.0.0",
     "Description": "Various QoL changes",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "CanUnloadAsync": false,
     "Punchline": "Various QoL changes",
     "AcceptsFeedback": false,
@@ -33,15 +33,15 @@
     "Name": "Relic Tracker",
     "InternalName": "RelicTracker",
     "RepoUrl": "https://github.com/lsl1225/RelicTracker",
-    "AssemblyVersion": "0.0.0.3",
+    "AssemblyVersion": "0.0.0.4",
     "Description": "A plugin that can track your relic progression. (Currently dawntrail only)",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "CanUnloadAsync": false,
     "Punchline": "Tracking your relic progression.",
     "AcceptsFeedback": true,
     "IsTestingExclusive": true,
-    "TestingAssemblyVersion": "0.0.0.3",
+    "TestingAssemblyVersion": "0.0.0.4",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/RelicTracker/testing.zip",
-    "TestingDalamudApiLevel": 14
+    "TestingDalamudApiLevel": 15
   }
 ]
