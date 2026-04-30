@@ -39,9 +39,7 @@
     "CanUnloadAsync": false,
     "Punchline": "Tracking your relic progression.",
     "AcceptsFeedback": true,
-    "IsTestingExclusive": true,
-    "TestingAssemblyVersion": "0.0.0.4",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/RelicTracker/testing.zip",
-    "TestingDalamudApiLevel": 15
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/RelicTracker/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/RelicTracker/latest.zip"
   }
 ]
