@@ -8,7 +8,7 @@
     "RepoUrl": "https://github.com/lsl1225/AutoDutyCN",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
-    "AssemblyVersion": "0.0.0.304",
+    "AssemblyVersion": "0.0.0.306",
     "DalamudApiLevel": "15",
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "ImageUrls": [
@@ -17,10 +17,7 @@
       "https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
       "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
       "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
-    ],
-    "TestingAssemblyVersion": "0.0.0.286",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/testing.zip",
-    "TestingDalamudApiLevel": "14"
+    ]
   },
   {
     "Author": "Haselnussbomber",
