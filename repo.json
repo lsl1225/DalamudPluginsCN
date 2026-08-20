@@ -1,0 +1,39 @@
+[
+  {
+    "Author": "erdelf, Herculezz",
+    "Name": "AutoDuty CN",
+    "Punchline": "AutoDuty",
+    "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
+    "InternalName": "AutoDuty",
+    "RepoUrl": "https://github.com/lsl1225/AutoDutyCN",
+    "DownloadLinkInstall": "https://github.com/lsl1225/AutoDutyCN/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/lsl1225/AutoDutyCN/releases/latest/download/latest.zip",
+    "AssemblyVersion": "0.0.0.335",
+    "DalamudApiLevel": "15",
+    "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
+      "https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
+      "https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
+      "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
+      "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
+    ],
+    "TestingAssemblyVersion": "0.0.0.325",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/testing.zip",
+    "TestingDalamudApiLevel": "15"
+  },
+  {
+    "Author": "Haselnussbomber",
+    "Name": "HaselTweaks CN",
+    "InternalName": "HaselTweaks",
+    "AssemblyVersion": "49.2.1.0",
+    "Description": "Keep on tweaking.",
+    "RepoUrl": "https://github.com/lsl1225/HaselTweaksCN",
+    "DalamudApiLevel": 15,
+    "CanUnloadAsync": false,
+    "Punchline": "A collection of quality of life tweaks.",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/HaselTweaks/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/HaselTweaks/latest.zip"
+  }
+]
