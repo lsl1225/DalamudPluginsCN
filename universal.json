@@ -41,5 +41,19 @@
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/RelicTracker/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/RelicTracker/latest.zip"
+  },
+  {
+    "Author": "lsl1225",
+    "Name": "Dye Search",
+    "InternalName": "DyeSearch",
+    "RepoUrl": "https://github.com/lsl1225/DyeSearch",
+    "AssemblyVersion": "1.0.0.1",
+    "Punchline": "还在为染剂合并后找不到颜色而烦恼？ Search and select dyes beside the dye panel.",
+    "Description": "在染色面板旁显示可供搜索的染剂颜色列表，用于自动选取想要的颜色。 Shows a searchable dye color list attached to the native dye panel and selects the matching dye category and color.",
+    "DalamudApiLevel": 15,
+    "CanUnloadAsync": false,
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/lsl1225/DyeSearch/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/lsl1225/DyeSearch/releases/latest/download/latest.zip"
   }
 ]
