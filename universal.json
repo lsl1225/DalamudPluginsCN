@@ -55,5 +55,19 @@
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/lsl1225/DyeSearch/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/lsl1225/DyeSearch/releases/latest/download/latest.zip"
+  },
+  {
+    "Author": "lsl1225",
+    "Name": "RenderingWay",
+    "InternalName": "RenderingWay",
+    "RepoUrl": "https://github.com/lsl1225/RenderingWay",
+    "AssemblyVersion": "1.0.0.0",
+    "Punchline": "Simply disables 3D rendering.",
+    "Description": "",
+    "DalamudApiLevel": 15,
+    "CanUnloadAsync": false,
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/lsl1225/RenderingWay/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/lsl1225/RenderingWay/releases/latest/download/latest.zip"
   }
 ]
