@@ -30,20 +30,6 @@
   },
   {
     "Author": "lsl1225",
-    "Name": "Relic Tracker",
-    "InternalName": "RelicTracker",
-    "RepoUrl": "https://github.com/lsl1225/RelicTracker",
-    "AssemblyVersion": "0.0.0.4",
-    "Description": "A plugin that can track your relic progression. (Currently dawntrail only)",
-    "DalamudApiLevel": 15,
-    "CanUnloadAsync": false,
-    "Punchline": "Tracking your relic progression.",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/RelicTracker/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/RelicTracker/latest.zip"
-  },
-  {
-    "Author": "lsl1225",
     "Name": "Dye Search",
     "InternalName": "DyeSearch",
     "RepoUrl": "https://github.com/lsl1225/DyeSearch",
