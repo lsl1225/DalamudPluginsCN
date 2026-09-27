@@ -1,0 +1,59 @@
+[
+  {
+    "Author": "lsl1225",
+    "Name": "Matcha Tweaks",
+    "InternalName": "MatchaTweaks",
+    "AssemblyVersion": "7.5.0.0",
+    "Description": "Various QoL changes",
+    "DalamudApiLevel": 15,
+    "CanUnloadAsync": false,
+    "Punchline": "Various QoL changes",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/MatchaTweaks/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/MatchaTweaks/latest.zip"
+  },
+  {
+    "Author": "Loskh, lsl1225",
+    "Name": "AoAoEnergy",
+    "InternalName": "AoAoEnergy",
+    "AssemblyVersion": "7.5.0.1",
+    "Description": "可我还要打本啊！为了不睡过去，我需要补充能量。这时候就轮到我最爱的能量饮料登场了……",
+    "RepoUrl": "https://github.com/lsl1225/AoAoEnergy",
+    "Tags": ["VFX", "AVFX"],
+    "DalamudApiLevel": 15,
+    "CanUnloadAsync": false,
+    "IconUrl": "https://cafemaker.wakingsands.com/i/024000/024420_hr1.png",
+    "Punchline": "宣传是用于新人的怪怪的能量饮料。 (将爆发药特效替换为嗷嗷有劲的RGB)",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/lsl1225/AoAoEnergy/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/lsl1225/AoAoEnergy/releases/latest/download/latest.zip"
+  },
+  {
+    "Author": "lsl1225",
+    "Name": "Dye Search",
+    "InternalName": "DyeSearch",
+    "RepoUrl": "https://github.com/lsl1225/DyeSearch",
+    "AssemblyVersion": "1.0.0.1",
+    "Punchline": "还在为染剂合并后找不到颜色而烦恼？ Search and select dyes beside the dye panel.",
+    "Description": "在染色面板旁显示可供搜索的染剂颜色列表，用于自动选取想要的颜色。 Shows a searchable dye color list attached to the native dye panel and selects the matching dye category and color.",
+    "DalamudApiLevel": 15,
+    "CanUnloadAsync": false,
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/lsl1225/DyeSearch/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/lsl1225/DyeSearch/releases/latest/download/latest.zip"
+  },
+  {
+    "Author": "lsl1225",
+    "Name": "RenderingWay",
+    "InternalName": "RenderingWay",
+    "RepoUrl": "https://github.com/lsl1225/RenderingWay",
+    "AssemblyVersion": "1.0.0.0",
+    "Punchline": "Simply disables 3D rendering.",
+    "Description": "",
+    "DalamudApiLevel": 15,
+    "CanUnloadAsync": false,
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/lsl1225/RenderingWay/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/lsl1225/RenderingWay/releases/latest/download/latest.zip"
+  }
+]
